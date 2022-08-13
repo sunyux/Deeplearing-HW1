@@ -1,3 +1,3 @@
-# Find-the-best-NN-for-Fashion-MNIST
+# Find-the-best-NN-for-MNIST
 
  find the best NeuralNetwork model for MNIST
